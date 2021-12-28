@@ -1,4 +1,4 @@
-A Project Mangement tool to manage the different project tasks of a project.
+A Project Management tool to manage the different project tasks of a project.
 
 (i).User can Add, Delete and Update the tasks.
 
